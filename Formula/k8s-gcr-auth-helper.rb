@@ -5,7 +5,7 @@ class K8sGcrAuthHelper < Formula
   desc "A Kubernetes authentication helper to expose per-user credentials as Image Pull Secrets for Google Container Registry"
   homepage "https://github.com/stephenc/k8s-gcr-auth-helper"
   url "https://github.com/stephenc/k8s-gcr-auth-helper/releases/download/v0.1.10/k8s-gcr-auth-helper-x86_64-apple-macos.tar.gz"
-  sha256 "eb7bd0ffd9b925607f8d4757445f99dedbbaaeaf64d4130ca4680410ea00c6eb"
+  sha256 "126e18e4ec585c19c9d7f7bcc91767156df2d6c2579a80d95cd48431c706edd2"
   version "0.1.10"
 
   def install
